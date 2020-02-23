@@ -1,0 +1,3 @@
+# ignorer le fichier sensible du projet
+/admin/jds.DB.php
+/admin/jds.CRUD.php
